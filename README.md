@@ -3,7 +3,7 @@
 David Benatia and Étienne Billette de Villemeur. *RAND Journal of Economics*
 56(1), 2025, pp. 3–34.
 
-[Published paper](https://doi.org/10.1111/1756-2171.12488) · [Author website and materials](https://davidbenatia.com/research/)
+[Published paper](https://doi.org/10.1111/1756-2171.12488) · [Author manuscript](https://www.dropbox.com/scl/fi/0d24x61hxs1mp3xt73ocb/strategic-reneging-working-paper-2025-11.pdf?rlkey=685yxu5mq6a7vq6ljmddz39di&dl=0) · [Author website and materials](https://davidbenatia.com/research/)
 
 MATLAB replication code for the Alberta electricity-market application.
 
