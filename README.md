@@ -10,7 +10,7 @@ Accompanying files are in the [Dropbox materials folder](https://www.dropbox.com
 
 ## Usage
 
-1. Download `strategic-reneging-data.zip` from the Dropbox materials folder linked above.
+1. Download the [data ZIP](https://www.dropbox.com/scl/fi/05ghsanlowuzzl6fudf9g/strategic-reneging-data.zip?rlkey=qjguecndarif2yfem1m2onioq&dl=0).
 2. Extract it into this repository, creating `Data/` with the three `.mat` files.
 3. Install glmnet for MATLAB and add it to the MATLAB path. The analysis also uses
    MATLAB statistics functions.
