@@ -1,0 +1,6 @@
+Data/
+Figures/
+Tables/
+Tempfiles/
+*.asv
+.DS_Store
